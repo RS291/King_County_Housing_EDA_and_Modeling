@@ -22,4 +22,4 @@ I used Python 3 and the following libraries to process and model the data: NumPy
 * House_Price_Project.ipynb - Detailed and documented analysis of the data in Jupyter Notebook form.
 * King County Home Sales.pdf - pdf export of the presentation, with notes. 
 * README.md - Project summary and guide to the repository.
-* Original dataset
+* kc_house_data.csv - Original dataset
