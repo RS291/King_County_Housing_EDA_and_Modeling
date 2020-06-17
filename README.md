@@ -16,3 +16,10 @@ My goal was to effectively use the King County Housing Sales dataset to create a
 I used the OSEMN data science process(Obtain, Scrub, Explore, Model, iNterpret).  
 
 I used Python 3 and the following libraries to process and model the data: NumPy, pandas, Statsmodels, scikit-learn, SciPy, itertools, math, matplotlib, and seaborn.  
+
+### Repository Structure:
+* Images - Images pertaining to the project, sourced from the code and stock photos. 
+* House_Price_Project.ipynb - Detailed and documented analysis of the data in Jupyter Notebook form.
+* King County Home Sales.pdf - pdf export of the presentation, with notes. 
+* README.md - Project summary and guide to the repository.
+* Original dataset
