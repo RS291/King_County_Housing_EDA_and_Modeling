@@ -1,5 +1,4 @@
 # Modeling House Prices in King County
-## Module 2 Housing Project
 
 ### Business Problem: <br/>
 In this project I conducted an exploratory data analysis into house prices in King County, Washington. <br/>
